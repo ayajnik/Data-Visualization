@@ -1,0 +1,43 @@
+Id,Label,timeset,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,pageranks,clustering
+Battle of the Golden Tooth,Battle of the Golden Tooth,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Joffrey/Tommen Baratheon,Joffrey/Tommen Baratheon,,15,0,15,15,0,15,0,0,0,0,0,0.18514,0
+Battle at the Mummer's Ford,Battle at the Mummer's Ford,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Battle of Riverrun,Battle of Riverrun,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Battle of the Green Fork,Battle of the Green Fork,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Robb Stark,Robb Stark,,11,0,11,11,0,11,0,0,0,0,1,0.139357,0
+Battle of the Whispering Wood,Battle of the Whispering Wood,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of the Camps,Battle of the Camps,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Sack of Darry,Sack of Darry,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Battle of Moat Cailin,Battle of Moat Cailin,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Balon/Euron Greyjoy,Balon/Euron Greyjoy,,7,0,7,7,0,7,0,0,0,0,2,0.093574,0
+Battle of Deepwood Motte,Battle of Deepwood Motte,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Battle of the Stony Shore,Battle of the Stony Shore,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Battle of Torrhen's Square,Battle of Torrhen's Square,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of Winterfell,Battle of Winterfell,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Sack of Torrhen's Square,Sack of Torrhen's Square,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Sack of Winterfell,Sack of Winterfell,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Battle of Oxcross,Battle of Oxcross,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Siege of Storm's End,Siege of Storm's End,,0,1,1,0,1,1,1,1,1,0,3,0.013454,0
+Stannis Baratheon,Stannis Baratheon,,5,0,5,5,0,5,0,0,0,0,3,0.070683,0
+Battle of the Fords,Battle of the Fords,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Sack of Harrenhal,Sack of Harrenhal,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of the Crag,Battle of the Crag,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of the Blackwater,Battle of the Blackwater,,0,1,1,0,1,1,1,1,1,0,3,0.013454,0
+Siege of Darry,Siege of Darry,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of Duskendale,Battle of Duskendale,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of the Burning Septry,Battle of the Burning Septry,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of the Ruby Ford,Battle of the Ruby Ford,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Retaking of Harrenhal,Retaking of Harrenhal,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+The Red Wedding,The Red Wedding,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Siege of Seagard,Siege of Seagard,,0,1,1,0,1,1,1,1,1,0,1,0.013454,0
+Battle of Castle Black,Battle of Castle Black,,0,1,1,0,1,1,1,1,1,0,3,0.013454,0
+Fall of Moat Cailin,Fall of Moat Cailin,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Sack of Saltpans,Sack of Saltpans,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Retaking of Deepwood Motte,Retaking of Deepwood Motte,,0,1,1,0,1,1,1,1,1,0,3,0.013454,0
+Battle of the Shield Islands,Battle of the Shield Islands,,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor","Invasion of Ryamsport, Vinetown, and Starfish Harbor",,0,1,1,0,1,1,1,1,1,0,2,0.013454,0
+Second Seige of Storm's End,Second Seige of Storm's End,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Siege of Dragonstone,Siege of Dragonstone,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Siege of Riverrun,Siege of Riverrun,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Siege of Raventree,Siege of Raventree,,0,1,1,0,1,1,1,1,1,0,0,0.013454,0
+Siege of Winterfell,Siege of Winterfell,,0,1,1,0,1,1,1,1,1,0,3,0.013454,0
